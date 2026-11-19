@@ -1,0 +1,6 @@
+# build/test outputs of host.c, tune.sh, sweep.sh
+host
+hv
+hv.c
+v_app.c
+*.raw
